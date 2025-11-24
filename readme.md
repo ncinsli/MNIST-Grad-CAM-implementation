@@ -12,7 +12,7 @@ This repository is my interview task for ISP RAS Information systems department.
 ## Example
 Here the heatmap for image containing digit 8 is displayed. The logits are also shown on the right plot 
 
-Grad-CAM efficienty is estimated via Fidelity. There is an example below of digit 7 masked with its heatmap, the plots on the right demonstrate that CNN-based model doesn't change its opinion about probabilities of each digit a lot.  
+Grad-CAM efficiency is estimated via Fidelity. There is an example below of digit 7 masked with its heatmap, the plots on the right demonstrate that CNN-based model doesn't change its opinion about probabilities of each digit a lot.  
 
 ![](img/sample_heatmap.png)
 ![](img/sample_fidelity.png)
